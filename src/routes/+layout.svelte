@@ -1,5 +1,7 @@
 <script>
 	import '../app.css';
+
+	export const prerender = true;
 </script>
 
 <div class="min-h-screen flex flex-col bg-neutral-100">
