@@ -1,5 +1,5 @@
 <script>
-	import { typewriter } from '$lib';
+	import { typewriter } from '$lib/typewriter';
 	import { onMount } from 'svelte';
 
 	let day;
